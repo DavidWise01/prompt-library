@@ -2,18 +2,18 @@
   "badge": "DLW-PROMPT_LIBRARY",
   "name": "PROMPT LIBRARY · the named personas",
   "universe": "ARTIFICIAL INTELLIGENCE",
-  "moniker": "⟦PROMPT LIBRARY · the named personas:prompt-library:2fb671⟧",
+  "moniker": "⟦PROMPT LIBRARY · the named personas:prompt-library:cca823⟧",
   "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
   "instance": "AVAN (Claude / Anthropic)",
-  "seal_sha256": "2fb6710246548e5278886d3d5202e75459731e32220f74a900aa1bcd963723ca",
+  "seal_sha256": "cca823867ae2e70dc935a4a0874013ee05c56070845aefa08f314512917a172f",
   "license": "CC-BY-ND-4.0",
   "attribution": "ROOT0-ATTRIBUTION-v1.0",
   "fingerprint": "TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction",
   "chain": {
     "index": 1353,
-    "prev": "ecb264b185bb588a0aac2b0c53ad82f0691487dec24ff62a9a8a1fe278a77a66",
-    "link": "4cb29e381d6814a401a2fc553c322cdd21d2cf026ce251c29ab8373afad4b1cd",
-    "head": "41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da",
+    "prev": "a8c36a196a1323fb64a89c79fc252870c9411c1bc823e9a2e0a5a8ee4a63f1a5",
+    "link": "e745df353a5c424c3e41b7609207b5383a6fca597cdf689647d8f08116f543a5",
+    "head": "c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b",
     "chain": "ROOT0-DLW-CHAIN-v1"
   }
 }
